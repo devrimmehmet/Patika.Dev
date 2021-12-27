@@ -1,0 +1,1 @@
+# Patika.Dev'e ait eğitim notlarım.
