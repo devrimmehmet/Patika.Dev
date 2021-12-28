@@ -19,6 +19,7 @@
 * Göz yoran yazı tipleri kullanmak
 * Başvurulan pozisyonla ilgisi olmayan deneyimler
 
+***
 
 ## Olması Gerekenler
 * Kendinizi Özetleyin !
