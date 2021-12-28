@@ -1,5 +1,5 @@
 # CV Hazırlama - Temel Bilgiler
-- Yapılmaması gerekenler
+## Yapılmaması gerekenler
 * Hazır CV sitelerinden CV Üretmek
 * Font farklılıkları
 * İmla ve yazım hataları
@@ -14,3 +14,4 @@
 * İletişim bilgileri
 * Sosyal medya bilgileri
 * ATS sistemine uyumlu olmalı
+* Yeni mezunlar için CV 1 sayfayı geçmemeli
