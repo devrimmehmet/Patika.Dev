@@ -1,0 +1,16 @@
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\bin\Debug\net5.0\Proje - 2.exe
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\bin\Debug\net5.0\Proje - 2.deps.json
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\bin\Debug\net5.0\Proje - 2.runtimeconfig.json
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\bin\Debug\net5.0\Proje - 2.runtimeconfig.dev.json
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\bin\Debug\net5.0\Proje - 2.dll
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\bin\Debug\net5.0\ref\Proje - 2.dll
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\bin\Debug\net5.0\Proje - 2.pdb
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\Proje - 2.csproj.AssemblyReference.cache
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\Proje - 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\Proje - 2.AssemblyInfoInputs.cache
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\Proje - 2.AssemblyInfo.cs
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\Proje - 2.csproj.CoreCompileInputs.cache
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\Proje - 2.dll
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\ref\Proje - 2.dll
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\Proje - 2.pdb
+C:\DMP\Patika.Dev\Başlangıç Seviyesi .Net Core Patikası\C# 101\Proje - 2\obj\Debug\net5.0\Proje - 2.genruntimeconfig.cache
