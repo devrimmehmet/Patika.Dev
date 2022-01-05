@@ -6,7 +6,7 @@ Hyper Text Transfer Protokol kelimelerinin baş harflerinden meydana gelen bir m
 Örnek olarak statik web site düşünelim. Web site içerisinde yüzlerce nesne farklı formatlarda bulunur, buna css, imaj ve videolar dahildir. Http protokolü bu web sayfalarının (genelde html formatta olurlar) client(istemci) ve server(sunucu) arasındaki bu alışverişten sorumludur.
 ## Client - Server Mimarisi
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/devrimmehmet/Patika.Dev/master/Orta%20Seviye%20.Net%20Core%20Patikas%C4%B1/.Net%20Core/Http%20Protokol/client-server.jpeg)
 
 Client'ları istemciler yani bilgisayarınızdaki tarayıcılar gibi düşünebilirsiniz. Siz tarayıcınızın adres çubuğuna bir url yazdığınızda uzaktaki bir sunucudan bir talepte bulunursunuz. Burda istemci sizin yerinize tarayıcınızdır, yani Client.
 
