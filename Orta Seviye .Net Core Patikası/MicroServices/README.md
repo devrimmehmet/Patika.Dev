@@ -31,20 +31,46 @@ Monolithic yaklaşım, üretilecek sistemin/nesnenin/olgunun bileşenlerini(comp
 - Kendi içerisinde bir çok bileşeni vardır
     - Policies, Contracts, Services ve çok daha fazlası
 -Dağıtık yazılım sistemlerinin kalitelerini arttırmayı hedefler
+   
+## SOA avantajları nelerdir?
     - Tekrar kullanılabilirlik(Reusable)
     - Uyumluluk (Adaptability)
     - Bakım Yeteneği (Maintainability)
-26:08
+    - Güvenilirlik / Dayanıklılık
+    - Up Time oranları yüksektir. Ulaşılabilirlik
+    - Yatay ve Dikey ölçeklendirme mümkündür
+    - Platform bağımsızdır
+    - Üretkenlik artar
+## SOA dezavantajları nelerdir?
+    - Overload // 
+    - Yüksek maliyet
+    - Yüksek Bant Genişliği
 
----
+# Mikro Servisler Mimarisi - Micro Services Architecture
 
-- SOA neden kullanılır?
-- SOA avantajları nelerdir?
-- SOA dezavantajları nelerdir?
-- MikroServis mimarisi nedir?
-- MikroServis mimarisi neden kullanılır?
-- MikroServis mimarisinin avantajları nelerdir?
-- MikroServis mimarisinin dezavantajları nelerdir?
-- Monolitik ve SOA farkları
-- Monolitik ve MikroServis farkları
-- SOA ve MikroServis farkları
+## MikroServis mimarisi nedir?
+
+Aslında bir mimari değildir.
+
+- SOA'nın bir yorumudur.
+- Her bir servisin kendine ait bir dünyada çalışmasını hedefler (Server Stack)
+- Kendine ait veritabanları vardır.
+- Sadece 1 küçük işi çok iyi yapmalıdır.
+- Api GW üzerinden dış ve iç dünyaya açılırlar.
+    - GW (GateWay) 
+- Böylece herhangi bir teknoloji ve dile ait kısıtlama olmaz.
+- Stateless yapılardır.
+- Kolay ölçeklenebilirler (Yatay) 
+
+## MikroServis mimarisinin avantajları nelerdir?
+- Çok dilli mimari
+- Kolay ölçeklendirme
+- Daha iyi bir takım yönetimi
+- Yenilik yapmak daha kolay
+- Mikro servislerin kendine ait bir veri tabanı vardır
+- Daha odaklı (Yapı, Ölçeklendirme)
+- İmplemente edilirken diğer servisler etkilenmezler
+## MikroServis mimarisinin dezavantajları nelerdir?
+- Implementasyon kolay değildir (Network Calls, Service Discovery)
+- Debug kolay değildir
+- Fault Management(Hata yönetimi) kolay değildir
