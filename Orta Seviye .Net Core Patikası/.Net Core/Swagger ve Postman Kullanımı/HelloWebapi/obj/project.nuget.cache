@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQSG0HCo/3ZlR+gqyKaOOFTtgMKUxfFCznRKLpPoVIsgA8PfpuvFCMtXCNdurnsOXnXwI8yQ2HQA8WpWEcyO6A==",
+  "success": true,
+  "projectFilePath": "/home/devrimmehmet/DMP/Patika.Dev/Orta Seviye .Net Core Patikası/.Net Core/Swagger ve Postman Kullanımı/HelloWebapi/HelloWebapi.csproj",
+  "expectedPackageFiles": [
+    "/home/devrimmehmet/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
