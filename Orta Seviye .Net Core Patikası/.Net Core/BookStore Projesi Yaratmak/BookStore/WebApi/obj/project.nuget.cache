@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9emPa19rBLkUAz4V0/zj8Od3mfwdl0I+mz3Wmbi3pr1t1YSuxcQQrVVpuaUJaUgix18B1TSjqVDKRYeUG4YW9Q==",
+  "success": true,
+  "projectFilePath": "/home/devrimmehmet/DMP/Patika.Dev/Orta Seviye .Net Core Patikası/.Net Core/BookStore Projesi Yaratmak/BookStore/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/devrimmehmet/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/devrimmehmet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
