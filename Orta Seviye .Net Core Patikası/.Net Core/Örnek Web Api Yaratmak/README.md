@@ -1,7 +1,7 @@
 # WEB API DOSYASI OLUŞTURMAK
 - mkdir hello  // hello adında klasör oluşturmak için
 - dotnet new --list  // dotnet ile oluşturulabilecek proje çeşitlerini görebiliyorsun.
--- dotnet new webapi -n HelloWebapi  // HelloWebapi adında bir webapi dosyası oluşturuyor.
+- dotnet new webapi -n HelloWebapi  // HelloWebapi adında bir webapi dosyası oluşturuyor.
 - cd HelloWebapi // komut satırında HelloWebapi klasörüne girmeni sağlar
 - cd . // bir önceki dizine geçer
 - dir // dizindeki klasörleri listeler.
@@ -11,3 +11,6 @@ ki burda 1 tane var şimdi o sln dosyasını HelloWebapi'ye bağlayacak.
 
 dotnet cli ile .net 5.0 web api projesi oluşturmak için 
 - dotnet new webapi -f net5.0 veya dotnet new webapi -n project50 -f net5.0
+
+---
+pardusta sln dosyasını HelloWebapi'ye bağlayamadım şimdilik bununla ilgili hata aldım burada not olarak dursun fakat sln dosyasını bağlayamadanda webapiyi çalıştırabildim.İlerde bunun temel sebebini öğrenince buraya not düşeceğim.
