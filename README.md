@@ -1,2 +1,1 @@
-# Patika.Dev'e ait eğitimlerdeki ders notlarım..
-pardusa geçiş.
+# [Patika.Dev](https://www.patika.dev/)'e ait eğitimlerdeki ders notlarım..
