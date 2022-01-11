@@ -68,7 +68,7 @@ Okuma Önerisi: Veri tabanı yönetim sistemleri ile ilgili daha detay bilgiye s
 ## Table, Primary Key, Foreign Key Kavramları
 ### Primary Key (Birincil Anahtar)
 
-Adından da anlaşılacağı üzere anahtar veridir. Tabloda her satır veriden sorumlu bir tane anahtar veri vardır. Bu her satır için aynı veridir. Dolayısıyla primary Key bilgisi kolona verilir. Primary key olarak işaretlenen veri tekil olmak zorundadır. Bir tabloda sadece bir kez bulunabilir. Aksi durumda veri tabanı hata fırlatır. Primary key tek bir kolon olabileceği gibi birden fazla kolonun birleşimi de olabilir.
+Adından da anlaşılacağı üzere anahtar veridir. Tabloda her satır veriden sorumlu bir tane anahtar veri vardır. Bu her satır için aynı veridir. Dolayısısyla primary Key bilgisi kolona verilir. Primary key olarak işaretlenen veri tekil olmak zorundadır. Bir tabloda sadece bir kez bulunabilir. Aksi durumda veri tabanı hata fırlatır. Primary key tek bir kolon olabileceği gibi birden fazla kolonun birleşimi de olabilir.
 
 Örneğin bir personel tablosu için Sicil Numarası bir primary keydir.
 
