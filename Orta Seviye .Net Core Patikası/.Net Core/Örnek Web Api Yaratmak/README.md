@@ -13,4 +13,6 @@ dotnet cli ile .net 5.0 web api projesi oluşturmak için
 - dotnet new webapi -f net5.0 veya dotnet new webapi -n project50 -f net5.0
 
 ---
-pardusta sln dosyasını HelloWebapi'ye bağlayamadım şimdilik bununla ilgili hata aldım burada not olarak dursun fakat sln dosyasını bağlayamadanda webapiyi çalıştırabildim.İlerde bunun temel sebebini öğrenince buraya not düşeceğim.
+- **dotnet new webapi -n WebApi**
+- **dotnet new sln -n BookStoreSln**
+- **dotnet sln add WebApi**
