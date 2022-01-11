@@ -9,5 +9,7 @@ namespace WebApi
         public int PageCount { get; set; }
 
         public DateTime PublishDate { get; set; }
+        
     }
+    
 }

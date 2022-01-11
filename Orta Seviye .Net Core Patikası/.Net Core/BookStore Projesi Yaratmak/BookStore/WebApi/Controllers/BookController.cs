@@ -24,7 +24,7 @@ namespace WebApi.Controllers
                 PageCount=250,
                 PublishDate=new System.DateTime(2010,05,23)
             },
-            new Book{
+            new Book{ 
                 Id=3,
                 Title="Dune",
                 GenreId=2, // Science Fiction
