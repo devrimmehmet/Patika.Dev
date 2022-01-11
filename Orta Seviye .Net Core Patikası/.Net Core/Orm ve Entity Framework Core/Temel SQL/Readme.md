@@ -34,7 +34,7 @@ Sadece bu başlık altında tüm temel SQl bilgisini vermemiz mümkün değil ma
 ## Update: Belirtilen tablo içerisindeki bir veya birden fazla veriyi güncellemek için kullanılır.
 Örnekler:
 
-Update dbo.Customer set age = 20 where name = 'Ayse'
+    - Update dbo.Customer set age = 20 where name = 'Ayse'
 
 Extra Çalışma Önerisi: Sql ile ilgili daha detay bilgiye sahip olmak için lütfen [tıklayınız.](https://www.w3schools.com/sql/default.asp)
 
