@@ -1,3 +1,5 @@
+#HAKAN YALÇINKAYA HOCANIN GİTHUB ÜZERİNDEKİ NOTLARI ! 
+
 # Kodluyoruz - FrontEnd 101 Eğitimi
 > Hakan Yalçınkaya 
 > > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
