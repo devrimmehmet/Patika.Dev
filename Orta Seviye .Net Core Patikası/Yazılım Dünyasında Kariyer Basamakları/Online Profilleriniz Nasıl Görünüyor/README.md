@@ -1,7 +1,15 @@
+[Eğitim Video Linki-1](https://www.youtube.com/watch?v=qOgON3F4P8s)
+[Eğitim Video Linki-2](https://www.youtube.com/watch?v=Z-RkPEj2GUg)
+[Eğitim Video Linki-3](https://www.youtube.com/watch?v=JLF7DYx1txA)
+***
+Eğitmen: Gökhan Kandemir
+***
+
 # Online Profilleriniz Nasıl Görünüyor? 
+
 ## Linkedin
 - Doğru Profil Seçimi 
-- Fotoğraf Seçimi (Ciddi resmi omuz üstü)
+- Fotoğraf Seçimi (gülümseyerek ciddi resmi omuz üstü)
 - Linkedin'de ne yazılır ne yazılmaz?
 - Temiz ve tutarlı yazılmış bir profilin önemi
 - Proilde summary bölümü (Örneklerle süsle)
