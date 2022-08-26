@@ -1,21 +1,5 @@
-[Eğitim Video Linki-1](https://www.youtube.com/watch?v=RMH_zxDdMjU)
-
-[Eğitim Video Linki-2](https://www.youtube.com/watch?v=OIgJuxrdBzM)
-
----
-
-Eğitmen Hakkında: Gökhan Kandemir
-
----
-
-# CV ve Önemi
-
-## CV Hazırlama - Temel Bilgiler
-
----
-
-### Yapılmaması Gerekenler
-
+# CV Hazırlama - Temel Bilgiler
+## Yapılmaması Gerekenler
 * Hazır CV sitelerinden CV Üretmek
 * Font farklılıkları
 * İmla ve yazım hataları
@@ -29,16 +13,15 @@ Eğitmen Hakkında: Gökhan Kandemir
 * Fotoğraf olmalı mıdır?
 * İletişim bilgileri
 * Sosyal medya bilgileri
-* ATS sistemine uyumlu olmalı 
+* ATS sistemine uyumlu olmalı
 * Yeni mezunlar için CV 1 sayfayı geçmemeli
 * Eksik veya yanlış bilgi vermek
 * Göz yoran yazı tipleri kullanmak
 * Başvurulan pozisyonla ilgisi olmayan deneyimler
 
-***
+****
 
-### Olması Gerekenler
-
+## Olması Gerekenler
 * Kendinizi Özetleyin !
     * Bu CV'de neler var?
         * Kimsiniz ?
@@ -46,7 +29,7 @@ Eğitmen Hakkında: Gökhan Kandemir
         * Yapılan ve katıldığınız projeler
 * İş ve staj deneyimleri
     * Tecrübeniz yoksa projelerinizi anlatın.
-    * Yazılım harici bir tecrübeniz varsa yazmalı mıyız? // İnsan Yönetimi hususunda tecrübe varsa ekleyin. Sizi başka bir pozisyon için hazırlamak üzere değerlendirebilirler.
+    * Yazılım harici bir tecrübeniz varsa yazmalı mıyız?
     * Proje yapmak ne kadar önemli ?
 * Gönüllü olarak katıldığınız aktiviteler
 * Yaptığınız projeler
